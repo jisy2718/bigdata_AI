@@ -1,2 +1,8 @@
-spark/실습코드
-spark/스파크_머신러닝_완벽가이드_1207.pdf
+# spark/실습코드
+# spark/스파크_머신러닝_완벽가이드_1207.pdf
+
+스파크_머신러닝_완벽가이드_1207
+*.pdf
+!spark/
+spark/*
+!spark/*.ipynb
