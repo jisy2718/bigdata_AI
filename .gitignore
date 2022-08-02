@@ -6,3 +6,30 @@
 !spark/
 spark/*
 !spark/*.ipynb
+
+# 실행파일
+*.dll
+*.exe
+*.o
+*.so
+*.com
+*.class
+
+# 로그
+*.log
+logs/
+
+# 문서파일
+*.xlsx
+*.xls
+*.pdf
+*.docs
+*.ppt
+*.pptx
+
+# 패키지
+*.dmg
+*.iso
+*.tar
+*.zip
+*.gz
